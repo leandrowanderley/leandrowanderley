@@ -1,4 +1,6 @@
-# Olá, me chamo Leandro Cavalcante
+# 🦆 Olá, me chamo Leandro Cavalcante
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-odev-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
 
 • 🔥 Apaixonado por tecnologia e pelo bem que ela pode fazer na sociedade
 
@@ -23,7 +25,7 @@
   
 ##
   
+# **🔔 Contato**
 <div>
   <a href="https://www.linkedin.com/in/leandro-wanderley-5b27a3233/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="50" width="66"></a>
-          
 </div>
