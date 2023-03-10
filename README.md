@@ -20,12 +20,16 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-C" height="50" width="66" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Leandro-Py" height="50" width="66" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  
+  ##
+  
   <img align="right" alt="Leandro-vasco" height="150" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ0ZGQ0MDI3N2Y0YmI4ZjhhZTNkMzE4MmQyMWM5YmI3OTZhYzhjYSZjdD1n/euZVS7E54UQdd5Cmmn/giphy.gif">
 </div>
-  
-##
+
   
 # **🔔 Contato**
 <div>
   <a href="https://www.linkedin.com/in/leandro-wanderley-5b27a3233/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="50" width="66"></a>
 </div>
+
+  ##
