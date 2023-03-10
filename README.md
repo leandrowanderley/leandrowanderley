@@ -15,7 +15,7 @@
 <div>
   <a href="https://github.com/leandro-odev/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-odev&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
-  <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leandro-odev&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leandro-odev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-C" height="50" width="66" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
