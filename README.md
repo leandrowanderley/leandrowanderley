@@ -6,7 +6,7 @@
 
 • 📚 Cursando o primeiro período de Ciência da Computação na UFAL (Universidade Federal de Alagoas)
 
-• 📘 Já cursei dois periodos de Ciência da Computação na UNIT-Al (Centro Universitário Tiradentes - Alagoas)
+• 📘 Já cursei dois periodos de Ciência da Computação na UNIT-AL (Centro Universitário Tiradentes - Alagoas)
 
 • 💻 Desenvolvedor inciante
 
