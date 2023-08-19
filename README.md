@@ -4,7 +4,7 @@
 
 - 🔭 Estou atualmente estudando Ciência da Computação na UFAL
 
-- 🌱 Estou atualmente estudando **React Native**
+- 🌱 Estou atualmente estudando **JavaScript e React Native**
 
 - 💻 Tenho projeto como um sistema de criptografia RSA e sistema de consultas, que está no ar.
 
