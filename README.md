@@ -17,7 +17,8 @@
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leandro-wanderley-5b27a3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-wanderley-5b27a3233" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leandro-wanderley-5b27a3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-wanderley-5b27a3233" height="30" width="40" /></a> <a href="https://bit.ly/leandro-email" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16-2048x1537.png" alt="leandro-email" height="30" width="40" /></a> 
+
 </p>
 
 <h3 align="left">Linguagens</h3>
