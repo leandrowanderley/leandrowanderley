@@ -2,6 +2,7 @@
 <h1 align="center">Olá 👋, sou Leandro Wanderley</h1>
 <h3 align="center">Um amante da tecnologia!</h3>
 
+
 - 🔭 Estou atualmente estudando Ciência da Computação na UFAL
 
 - 🌱 Estou atualmente estudando **JavaScript e React Native**
