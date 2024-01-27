@@ -1,11 +1,13 @@
-![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg)
+<div align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20221203221109/TipstoBecomeaBetterJavaProgrammerin2023.png" width="600">
+</div>
 <h1 align="center">Olá 👋, sou Leandro Wanderley</h1>
 <h3 align="center">Um amante da tecnologia!</h3>
 
 
 - 🔭 Estou atualmente estudando Ciência da Computação na UFAL
 
-- 🌱 Estou atualmente estudando **Java, HTML e CSS**
+- 🌱 Estou atualmente aprimorando minhas habilidades em **Java**
 
 - 💻 Tenho projeto como um sistema de criptografia RSA e sistema de consultas, que está no ar.
 
@@ -22,6 +24,6 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="stylesheet"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> </a> </p>
 
 [![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-odev)](https://github.com/anuraghazra/github-readme-stats)
