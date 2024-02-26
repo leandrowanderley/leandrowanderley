@@ -13,7 +13,7 @@
 
 - 😶‍🌫️ Acesse o Sistema de consultas, que participei desenvolvendo a programação utilizada para o Back-End [AQUI](http://bit.ly/sistema-de-consulta)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/leandro-odev](https://github.com/leandro-odev)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui no meu Github.
 
 - 📫 Como me contatar **devleandromcz@gmail.com**
 
