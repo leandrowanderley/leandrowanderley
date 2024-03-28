@@ -7,7 +7,7 @@
 
 - 🔭 Estou atualmente estudando Ciência da Computação na UFAL
 
-- 🌱 Estou atualmente aprimorando minhas habilidades em **Java**
+- 🌱 Estou atualmente aprendendo **Swift**
 
 - 💻 Tenho projeto como um sistema de criptografia RSA e sistema de consultas, que está no ar.
 
