@@ -15,4 +15,4 @@ const leandro = {
 }
 ```
 
-<img src=output-onlinegiftools.gif width="60"> <em><b>I'm all about expanding my network and connecting.</b> Don't hesitate to drop a line and say <b>hi! I'll be happy to meet you more!</b> :)</em>
+<img src=output-onlinegiftools.gif width="60"> <em><b>I'm all about expanding my network and connecting.</b> Don't hesitate to drop a line and say <b>hi! I'll be happy to meet you more!</b> </em>
