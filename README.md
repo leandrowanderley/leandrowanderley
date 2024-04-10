@@ -8,9 +8,10 @@
 
 ```javascript
 const leandro = {
-  code: [Java, Swift, Python, C, C++],
+  nationality: "Brazilian",
+  code: [Java, Swift, Python, C, C++, JavaScript],
   databases: [PostgreSQL, MySQL],
-  studies: ["Computer Science": "fourth semester"],
+  studies: ["Computer Science": "Fourth semester", "English language": "Advanced"],
  challenge: "I'm studying for university and for the Apple Developer Academy test"
 }
 ```
