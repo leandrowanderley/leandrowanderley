@@ -16,4 +16,6 @@ let leandro = {
 }
 ```
 
+<p align="center">   <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leandro-odev&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&rank_icon=github"/>   <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-odev&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/> </p>
+
 <img src=output-onlinegiftools.gif width="60"> <em><b>I'm all about expanding my network and connecting.</b> Don't hesitate to drop a line and say <b>hi! I'll be happy to meet you more!</b> </em>
