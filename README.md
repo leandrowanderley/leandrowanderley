@@ -7,7 +7,7 @@
 ### <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNvOywmcyKtDjBMH2L7PNynL3U3rHVKIAXzeJU0JfBrpnctZP4wQYZSYT6O9lB-YvMbaaGpsUFRIHRcmelKsIegaO0blx-WJpYfhF77eQuQ0M6kYhNKS_hLepcaxynBh3eCzhXaxIDCAnWKtM37xH-pMbmAtMu-6KF6rDvYNUK5uxl41sEkWfLI6PI/s480/duck_conf.gif" width="50"> A little more about me...  
 
 ```javascript
-const leandro = {
+let leandro = {
   nationality: "Brazilian",
   code: [Java, Swift, Python, C, C++, JavaScript],
   databases: [PostgreSQL, MySQL],
