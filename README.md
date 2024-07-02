@@ -11,6 +11,7 @@ let leandro = {
   nationality: "Brazilian",
   code: [Java, Swift, Python, C, C++, JavaScript],
   databases: [PostgreSQL, MySQL],
+  technologies: [OpenCV, MediaPipe],
   studies: ["Computer Science": "Fourth semester", "English language": "Advanced"],
  challenge: "I'm studying for university and for the Apple Developer Academy test"
 }
