@@ -1,6 +1,6 @@
-<h2> Hi, I'm Leandro Wanderley! <img src="https://i.pinimg.com/originals/25/48/19/254819622e6fd49afb970451be88e8d0.gif" width="25"></h2>
+<h2> Hi, I'm Leandro Wanderley!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230">
-<p><em>Coursing Computer Science at <a href="https://ufal.br/">Federal University of Alagoas</a><img src="https://media0.giphy.com/media/WoWm8YzFQJg5i/200.gif?cid=790b7611ftmx8cbxla6am723q3kfh2bce59ud53e616bcrdy&ep=v1_gifs_search&rid=200.gif&ct=g" width="40"></br>
+<p><em>Coursing Computer Science at <a href="https://ufal.br/">Federal University of Alagoas</a></br>
 </em></p>
 
 
