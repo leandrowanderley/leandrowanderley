@@ -10,6 +10,7 @@
 let leandro = {
   nationality: "Brazilian",
   code: [Java, Swift, Python, C, C++, JavaScript],
+  technologies: [GeminiAPI, Discord.py],
   databases: [PostgreSQL, MySQL],
   studies: ["Computer Science": "Fourth semester"],
   language: [Portuguese: "Fluent", English: "Advanced", Spaninsh: "Intermediary"],
