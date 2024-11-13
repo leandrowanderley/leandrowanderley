@@ -15,12 +15,12 @@
 
 ```json
 {
-  "name": "Leandro Wanderley",
-  "nationality": "Brasileiro 🇧🇷",
+  "nome": "Leandro Wanderley",
+  "nacionalidade": "Brasileiro 🇧🇷",
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
-  "studies": "Ciência da Computação - 4º semestre",
-  "languages": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
-  "challenge": "Apple Developer Academy 🍎"
+  "estudo": "Ciência da Computação - 4º semestre",
+  "linguas": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
+  "desafio_atual": "Entrar na Apple Developer Academy @UNINA 🍎"
 }
 ```
 
@@ -33,9 +33,9 @@
   "name": "Leandro Wanderley",
   "nationality": "Brazilian 🇧🇷",
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
-  "studies": "Computer Science - 4th semester",
+  "study": "Computer Science - 4th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Intermediate"},
-  "challenge": "Apple Developer Academy 🍎"
+  "current_challenge": "Join the Apple Developer Academy @UNINA 🍎"
 }
 ```
 
