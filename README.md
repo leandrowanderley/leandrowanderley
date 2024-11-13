@@ -6,15 +6,14 @@
 
 ### <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNvOywmcyKtDjBMH2L7PNynL3U3rHVKIAXzeJU0JfBrpnctZP4wQYZSYT6O9lB-YvMbaaGpsUFRIHRcmelKsIegaO0blx-WJpYfhF77eQuQ0M6kYhNKS_hLepcaxynBh3eCzhXaxIDCAnWKtM37xH-pMbmAtMu-6KF6rDvYNUK5uxl41sEkWfLI6PI/s480/duck_conf.gif" width="50"> A little more about me...  
 
-```javascript
-let leandro = {
-  nationality: "Brazilian",
-  code: [Java, Swift, Python, C, C++, JavaScript],
-  technologies: [GeminiAPI],
-  databases: [PostgreSQL, MySQL],
-  studies: ["Computer Science": "Fourth semester"],
-  language: [Portuguese: "Fluent", English: "Advanced", Spaninsh: "Intermediary"],
-  challenge: "Enter the Apple Developer Academy UNINA"
+```json
+{
+  "name": "Leandro Wanderley"
+  "nationality": "Brazilian 🇧🇷",
+  "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
+  "studies": "ComputerScience - 4th semester",
+  "languages": {"Portuguese": "Fluent", "English": "Advanced"},
+  "challenge": "Apple Developer Academy 🍎"
 }
 ```
 
