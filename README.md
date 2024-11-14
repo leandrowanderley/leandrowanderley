@@ -17,7 +17,7 @@
   "nome": "Leandro Wanderley",
   "nacionalidade": "Brasileiro 🇧🇷",
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
-  "estudo": "Ciência da Computação - 4º semestre",
+  "estudo": "Ciência da Computação - 4º período",
   "linguas": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
   "desafio_atual": "Entrar na Apple Developer Academy @UNINA 🍎"
 }
