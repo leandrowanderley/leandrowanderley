@@ -16,7 +16,7 @@
 {
   "nome": "Leandro Wanderley",
   "nacionalidade": "Brasileiro 🇧🇷",
-  "linguagens": ["Java", "Swift", "Python", "GeminiAPI"],
+  "skills": ["Java", "Swift", "Python", "GeminiAPI"],
   "estudo": "Ciência da Computação - 5º período",
   "linguas": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
   "desafio_atual": "Aprender mais e eaplicar em projetos reais 🍎"
@@ -31,7 +31,7 @@
 {
   "name": "Leandro Wanderley",
   "nationality": "Brazilian 🇧🇷",
-  "languagens": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
+  "skills": ["Java", "Swift", "Python", "GeminiAPI"],
   "study": "Computer Science - 5th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Intermediate"},
   "current_challenge": "Learn more and apply it to real projects 🍎"
