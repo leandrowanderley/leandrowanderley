@@ -19,7 +19,7 @@
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
   "estudo": "Ciência da Computação - 5º período",
   "linguas": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
-  "desafio_atual": "Entrar na Apple Developer Academy @UNINA 🍎"
+  "desafio_atual": "Aprender mais e eaplicar em projetos reais 🍎"
 }
 ```
 
@@ -34,7 +34,7 @@
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
   "study": "Computer Science - 5th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Intermediate"},
-  "current_challenge": "Join the Apple Developer Academy @UNINA 🍎"
+  "current_challenge": "Learn more and apply it to real projects 🍎"
 }
 ```
 
