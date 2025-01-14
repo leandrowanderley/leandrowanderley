@@ -17,7 +17,7 @@
   "nome": "Leandro Wanderley",
   "nacionalidade": "Brasileiro 🇧🇷",
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
-  "estudo": "Ciência da Computação - 4º período",
+  "estudo": "Ciência da Computação - 5º período",
   "linguas": {"Inglês": "Avançado", "Espanhol": "Intermediário"},
   "desafio_atual": "Entrar na Apple Developer Academy @UNINA 🍎"
 }
@@ -32,7 +32,7 @@
   "name": "Leandro Wanderley",
   "nationality": "Brazilian 🇧🇷",
   "skills": ["Java", "Swift", "Python", "C", "C++", "JavaScript", "GeminiAPI"],
-  "study": "Computer Science - 4th semester",
+  "study": "Computer Science - 5th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Intermediate"},
   "current_challenge": "Join the Apple Developer Academy @UNINA 🍎"
 }
