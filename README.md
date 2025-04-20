@@ -26,4 +26,4 @@
 
 ##
 
-<img src=https://media.tenor.com/MsDITCC1W7oAAAAi/club-penguin.gif width="60"> <em> Entre em contato comigo sem hesitar / Contact me without hesitation </em>
+<img src=https://media.tenor.com/MsDITCC1W7oAAAAi/club-penguin.gif width="60"> <em> Contact me without hesitation </em>
