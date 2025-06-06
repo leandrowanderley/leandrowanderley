@@ -1,7 +1,7 @@
 <h2> Hi, i am Leandro Wanderley Cavalcante!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230">
 <p><em>Computer Science student at <a href="https://ufal.br/">Universidade Federal de Alagoas</a></br></em></p>
-<p>🌐 <a href="https://leandrowanderley.github.io/Portfolio/" target="_blank">My Portfolio</a></p>
+<p>🌐 <a href="https://leandrowanderley.com.br" target="_blank">My Portfolio</a></p>
 
 <div> 
   <a href="https://instagram.com/leandrowcavalcante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
