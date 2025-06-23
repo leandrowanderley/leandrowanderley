@@ -15,10 +15,10 @@
 {
   "name": "Leandro Wanderley",
   "nationality": "Brazilian 🇧🇷",
-  "skills": ["Java", "Swift", "Python", "GeminiAPI"],
-  "study": "Computer Science - 5th semester",
+  "skills": [ "Python", "Java", "Swift", "GeminiAPI"],
+  "study": "Computer Science - 6th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Intermediate"},
-  "current_challenge": "Pass the Apple Developer Academy Unina test and study there 🍎"
+  "current_challenge": "Learn Deep Learning, focusing on object detection"
 }
 ```
 
