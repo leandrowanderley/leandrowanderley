@@ -13,7 +13,7 @@
 
 ```json
 {
-  "name": "Leandro Wanderley",
+  "name": "Leandro Wanderley Cavalcante",
   "nationality": "Brazilian 🇧🇷",
   "skills": [ "Python", "Java", "Swift", "GeminiAPI"],
   "study": "Computer Science - 6th semester",
