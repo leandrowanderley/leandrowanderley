@@ -16,7 +16,7 @@
 {
   "name": "Leandro Wanderley Cavalcante",
   "nationality": "Brazilian 🇧🇷",
-  "skills": [ "Python", "Java", "Swift", "GeminiAPI"],
+  "skills": [ "Python", "Java", "Swift"],
   "study": "Computer Science - 6th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Basic"},
   "current_challenge": "Learn Deep Learning, focusing on object detection"
