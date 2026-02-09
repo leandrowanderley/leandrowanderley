@@ -16,7 +16,7 @@
   "name": "Leandro Wanderley Cavalcante",
   "nationality": "Brazilian 🇧🇷",
   "skills": [ "Python", "Swift"],
-  "study": "Computer Science - 6th semester",
+  "study": "Computer Science - 7th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Basic"},
   "current_challenge": "Win Swift Student Challenge & enter Apple Develeper Academy Unina"
 }
