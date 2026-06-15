@@ -18,7 +18,7 @@
   "skills": [ "Python", "Swift"],
   "study": "Computer Science - 7th semester",
   "languages": {"English": "Advanced", "Spaninsh": "Basic"},
-  "current_challenge": "Join Apple Develeper Academy Unina"
+  "current_challenge": "Be a Swift Student Challenge Winner!"
 }
 ```
 
